@@ -25,6 +25,11 @@ You can install them using pip:
 pip install numpy scikit-learn tqdm matplotlib scipy
 ```
 
+### Download Data
+Download the dataset from https://huggingface.co/datasets/Fujitsu/LSPWD_Dataset
+
+and add the data/ folder to the root path.
+
 ### Estimation
 Run the estimation script to perform unsupervised periodic workflow detection on the dataset. This script generates estimation results in the `outputs/` directory.
 
