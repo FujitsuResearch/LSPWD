@@ -16,3 +16,9 @@ backup/
 *.mp4
 *.pdf
 *.zip
+
+# Keep generated assets and sample outputs in this repo.
+!asserts/
+!asserts/**
+!outputs/
+!outputs/**

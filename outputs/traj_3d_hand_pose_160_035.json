@@ -1,0 +1,29 @@
+{
+    "test_file_path": "data/traj_3d_hand_pose_160/035",
+    "task_1": {
+        "period_num": 3,
+        "period_boundaries": {
+            "0": [
+                0,
+                966
+            ],
+            "1": [
+                967,
+                1899
+            ],
+            "2": [
+                1900,
+                2808
+            ]
+        }
+    },
+    "task_2": {
+        "est_remained_ratio": 0.8317358892438764
+    },
+    "task_3": {
+        "est_abnormal_range": [
+            155.0,
+            494.0
+        ]
+    }
+}

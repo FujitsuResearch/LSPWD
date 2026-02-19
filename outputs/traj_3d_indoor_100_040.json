@@ -1,0 +1,33 @@
+{
+    "test_file_path": "data/traj_3d_indoor_100/040",
+    "task_1": {
+        "period_num": 3,
+        "period_boundaries": {
+            "0": [
+                0,
+                1278
+            ],
+            "1": [
+                1279,
+                2629
+            ],
+            "2": [
+                2630,
+                3978
+            ],
+            "3": [
+                3979,
+                4051
+            ]
+        }
+    },
+    "task_2": {
+        "est_remained_ratio": 0.780359820089955
+    },
+    "task_3": {
+        "est_abnormal_range": [
+            493.0,
+            1334.0
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "test_file_path": "data/traj_3d_body_pose_220/219",
+    "task_1": {
+        "period_num": 3,
+        "period_boundaries": {
+            "0": [
+                0,
+                833
+            ],
+            "1": [
+                834,
+                1661
+            ],
+            "2": [
+                1662,
+                2534
+            ]
+        }
+    },
+    "task_2": {
+        "est_remained_ratio": 0.6647398843930635
+    },
+    "task_3": {
+        "est_abnormal_range": [
+            101.0,
+            440.0
+        ]
+    }
+}

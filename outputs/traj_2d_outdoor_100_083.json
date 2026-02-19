@@ -1,0 +1,33 @@
+{
+    "test_file_path": "data/traj_2d_outdoor_100/083",
+    "task_1": {
+        "period_num": 3,
+        "period_boundaries": {
+            "0": [
+                0,
+                341
+            ],
+            "1": [
+                342,
+                690
+            ],
+            "2": [
+                691,
+                1039
+            ],
+            "3": [
+                1040,
+                1046
+            ]
+        }
+    },
+    "task_2": {
+        "est_remained_ratio": 0.24068767908309455
+    },
+    "task_3": {
+        "est_abnormal_range": [
+            108.0,
+            145.0
+        ]
+    }
+}
